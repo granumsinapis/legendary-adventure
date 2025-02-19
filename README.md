@@ -2,4 +2,4 @@
 Just some test
 
 ### Bootstrap
-- Quick start [🔗](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- Quick start <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">🔗</a>
