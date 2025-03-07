@@ -1,0 +1,21 @@
+.page-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Custom css for the calendar  */
+.calendar-table td {
+    height: 100px;
+    width: 14.28%;
+    vertical-align: top;
+    padding: 8px;
+}
+
+.calendar-table td.text-muted {
+    background-color: #f8f9fa;
+}
+
+.calendar-table .small {
+    font-size: 80%;
+    line-height: 1.2;
+}
